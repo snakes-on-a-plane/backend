@@ -1,0 +1,52 @@
+{
+    "backgrounds": [
+        {
+            "type": "entrance",
+            "movement_cost": 1,
+            "y_pos": 0,
+            "x_pos": 0
+        },
+        {
+            "type": "aisle",
+            "movement_cost": 1,
+            "y_pos": 0,
+            "x_pos": 1
+        },
+        {
+            "type": "aisle",
+            "movement_cost": 1,
+            "y_pos": 0,
+            "x_pos": 2
+        },
+        {
+            "type": "aisle",
+            "movement_cost": 1,
+            "y_pos": 0,
+            "x_pos": 3
+        },
+        {
+            "type": "aisle",
+            "movement_cost": 1,
+            "y_pos": 0,
+            "x_pos": 4
+        },
+        {
+            "type": "equipment",
+            "movement_cost": 0,
+            "y_pos": 0,
+            "x_pos": 5
+        },
+        {
+            "type": "equipment",
+            "movement_cost": 0,
+            "y_pos": 0,
+            "x_pos": 6
+        },
+        {
+            "type": "wall",
+            "movement_cost": 0,
+            "y_pos": 0,
+            "x_pos": 7
+        }
+    ]
+}
