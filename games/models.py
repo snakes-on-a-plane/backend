@@ -8,11 +8,13 @@ class Game(models.Model):
         return f'Flight: {self.flight}'
 
 class Cell(models.Model):
-    type = models.CharField(max_length=64, default='wall')
+    kind = models.CharField(max_length=64, default='wall')
+
     movement_cost = models.IntegerField(default=0)
     x_pos = models.IntegerField()
     y_pos = models.IntegerField()
 
     def __str__(self):
-        return f'{self.type} : {self.x_pos},{self.y_pos}'
+        return f'{self.kind} : {self.x_pos},{self.y_pos}'
+
 

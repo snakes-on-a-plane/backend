@@ -1,37 +1,37 @@
 {
     "backgrounds": [
         {
-            "type": "entrance",
+            "cell_type": "entrance",
             "movement_cost": 1,
             "y_pos": 0,
             "x_pos": 0
         },
         {
-            "type": "aisle",
+            "cell_type": "aisle",
             "movement_cost": 1,
             "y_pos": 0,
             "x_pos": 1
         },
         {
-            "type": "aisle",
+            "cell_type": "aisle",
             "movement_cost": 1,
             "y_pos": 0,
             "x_pos": 2
         },
         {
-            "type": "aisle",
+            "cell_type": "aisle",
             "movement_cost": 1,
             "y_pos": 0,
             "x_pos": 3
         },
         {
-            "type": "aisle",
+            "cell_type": "aisle",
             "movement_cost": 1,
             "y_pos": 0,
             "x_pos": 4
         },
         {
-            "type": "equipment",
+            "cell_type": "equipment",
             "movement_cost": 0,
             "y_pos": 0,
             "x_pos": 5
