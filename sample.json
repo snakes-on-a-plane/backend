@@ -37,13 +37,13 @@
             "x_pos": 5
         },
         {
-            "cell_type": "equipment",
+            "type": "equipment",
             "movement_cost": 0,
             "y_pos": 0,
             "x_pos": 6
         },
         {
-            "cell_type": "wall",
+            "type": "wall",
             "movement_cost": 0,
             "y_pos": 0,
             "x_pos": 7
