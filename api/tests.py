@@ -4,4 +4,3 @@ from django.test import TestCase
 class ApiTests(TestCase):
     def test_fail(self):
         self.assertTrue(False)
-        self.assertFalse(True)
