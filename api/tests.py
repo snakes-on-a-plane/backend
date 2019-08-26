@@ -4,3 +4,4 @@ from django.test import TestCase
 class ApiTests(TestCase):
     def test_fail(self):
         self.assertEqual(True, False)
+        self.assertEqual(True, True)
